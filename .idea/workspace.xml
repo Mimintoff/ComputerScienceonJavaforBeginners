@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff5b70ba-f58a-4ae1-8f32-d378943a5636" name="Changes" comment="DCt">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFourteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonThirteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/ApplicationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFourteen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,16 +79,16 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "project.propGUI"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ru.koch.Java.pracrice.TernaryOperator">
-    <configuration name="LessonNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.LessonNine" />
+  <component name="RunManager" selected="Application.LessonFourteen">
+    <configuration name="LessonFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonFourteen" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="ru.koch.Java.pracrice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LessonFourteen" />
         <item itemvalue="Application.ru.koch.Java.pracrice.TernaryOperator" />
         <item itemvalue="Application.LessonThirteen" />
         <item itemvalue="Application.ru.koch.Java.pracrice.LessonTen" />
         <item itemvalue="Application.LessonTen" />
-        <item itemvalue="Application.LessonNine" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +167,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688551003506</updated>
     </task>
+    <task id="LOCAL-00001" summary="DCt">
+      <created>1688670558160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688670558160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
