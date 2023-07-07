@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5b70ba-f58a-4ae1-8f32-d378943a5636" name="Changes" comment="DCt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/ApplicationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSeven.java" afterDir="false" />
+    <list default="true" id="ff5b70ba-f58a-4ae1-8f32-d378943a5636" name="Changes" comment="Добавил урок по switch">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSixteen/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSixteen/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSixteen/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonSixteen/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/koch/Java/pracrice/LessonFourteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +74,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propGUI"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LessonFourteen">
-    <configuration name="LessonFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonFourteen" />
+}</component>
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="LessonFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonFifteen" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.LessonTen" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonSixteen.Task1" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="ru.koch.Java.pracrice.LessonSixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonThirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonThirteen" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonSixteen.Task2" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.koch.Java.pracrice.*" />
+          <option name="PATTERN" value="ru.koch.Java.pracrice.LessonSixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.koch.Java.pracrice.LessonTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonTen" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonSixteen.Task3" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.koch.Java.pracrice.*" />
+          <option name="PATTERN" value="ru.koch.Java.pracrice.LessonSixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.koch.Java.pracrice.TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.TernaryOperator" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.koch.Java.pracrice.LessonSixteen.Task4" />
       <module name="ComputerScienceonJavaforBeginners.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.koch.Java.pracrice.*" />
+          <option name="PATTERN" value="ru.koch.Java.pracrice.LessonSixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LessonFourteen" />
-        <item itemvalue="Application.ru.koch.Java.pracrice.TernaryOperator" />
-        <item itemvalue="Application.LessonThirteen" />
-        <item itemvalue="Application.ru.koch.Java.pracrice.LessonTen" />
-        <item itemvalue="Application.LessonTen" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.LessonFifteen" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688670558160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавил урок по switch">
+      <created>1688732767828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688732767828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DCt" />
-    <option name="LAST_COMMIT_MESSAGE" value="DCt" />
+    <MESSAGE value="Добавил урок по switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил урок по switch" />
   </component>
 </project>
